@@ -112,7 +112,7 @@
     "@types/supertest": "^2.0.6",
     "conventional-changelog-cli": "^2.0.5",
     "conventional-commits-detector": "^0.1.1",
-    "conventional-recommended-bump": "^4.0.1",
+    "conventional-recommended-bump": "^4.0.4",
     "cross-env": "^5.2.0",
     "jest": "^23.6.0",
     "nodemon": "^1.18.4",
